@@ -1,0 +1,3 @@
+[submodule "extend/plugins/wp-smartex"]
+	path = extend/plugins/wp-smartex
+	url = https://github.com/InteractiveOpenSource/Wordpress-Smartex.git
